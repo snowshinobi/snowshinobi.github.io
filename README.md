@@ -1,7 +1,4 @@
 # snowshinobi.github.io
 AAAAAAAAAAAAAAAAA
 
-# Heading 1!
-Ba ba ba ba ba
-## Heading 2!
-Da ba di da ba da
+Don't use this for making changes to the website, go to the index.html file
