@@ -1,4 +1,4 @@
 # snowshinobi.github.io
-AAAAAAAAAAAAAAAAA
-
-Don't use this for making changes to the website, go to the index.html file
+1. Type the title of this repo into the url bar
+2. Congrats, you have a lil website, do with it what you will. Edit things via the index.html file, NOT this readme!
+3. Use a free HTML editor for all your HTML editing needs
